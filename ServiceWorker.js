@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-DotRescue-1.0";
 const contentToCache = [
     "Build/dotrescue.loader.js",
-    "Build/dotrescue.framework.js.unityweb",
-    "Build/dotrescue.data.unityweb",
-    "Build/dotrescue.wasm.unityweb",
+    "Build/dotrescue.framework.js",
+    "Build/dotrescue.data",
+    "Build/dotrescue.wasm",
     "TemplateData/style.css"
 
 ];
