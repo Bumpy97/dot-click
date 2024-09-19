@@ -1,1 +1,1 @@
-# dot-click
+# dot-click-game
