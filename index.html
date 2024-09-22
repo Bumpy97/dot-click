@@ -126,7 +126,7 @@
     }
 
     vkBridge.send('VKWebAppShowNativeAds', {
-      ad_format: 'reward' /* Тип рекламы */
+      ad_format: 'interstitial' /* Тип рекламы */
     })
       .then((data) => {
         if (data.result) {
